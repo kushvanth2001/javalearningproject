@@ -1,5 +1,5 @@
 package fundamental
-public class COMMENTS {
+public class Comments {
     public static void main(String[] args) {
         // (//) these are called singline comments, the comments which are in a single line can be in this ways.
         /*(/*)these are multiline comments use for multiline comments*/
