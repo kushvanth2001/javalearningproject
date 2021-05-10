@@ -12,7 +12,13 @@ public class datatypes {
 	 boolean b1=true;
 	void show()
 	{
-		System.out.print(c+b+i+s+l+f+d);
+		System.out.println(i);
+		System.out.println(f);
+		System.out.println(b);
+		System.out.println(s);
+		System.out.println(l);
+		System.out.println(d);
+		System.out.println(c);
 		 System.out.println(b1); 
 	}
 	public static void main(String[] args) {
