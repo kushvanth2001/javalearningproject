@@ -1,6 +1,6 @@
 package fundamental;
 
-public class datatypes {
+public class Datatypes {
 	char c='a';	    //2 byte
 	byte b=12;		//1 byte
 	short s=568;		//2 byte
